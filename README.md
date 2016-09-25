@@ -1,12 +1,11 @@
-# Pokemon Hangman
-A hangman game of all the Pokemons
+# Hangman game with Pokemons
+A hangman game of all the Pokemons using Ruby
 
 ##Description
 The details about all the pokemons are stored in a yaml file and one of them will be picked at random
 The player has 7 chances to guess ir right. The player can type "clue" to know the type of the Pokemon. Happy playing
 
 ##Sample
-          ###Pokemon Hangman
           
 *1. First generation.*
 
@@ -21,6 +20,7 @@ The player has 7 chances to guess ir right. The player can type "clue" to know t
 *6. Sixth generation.*
 
 *7. Any generation.*
+
 1
 
  *Let's begin!*
